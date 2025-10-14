@@ -8,4 +8,4 @@
 
 
 
-[![dia's github stats](https://dias-github-stats.vercel.app/api?username=dianosaur12)](https://github.com/dianosaur12/github-readme-stats)
+  [dia's github stats](https://dias-github-stats.vercel.app/api?username=dianosaur12)]
