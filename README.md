@@ -4,8 +4,6 @@
 - 🎃 p.s.: as you can tell, my github is quite empty (for now) since i never really get around to uploading my own projects on here :// (maybe one of these days i finally will kekeke)
 
 - dia's github stats (i'm working on it!):
-
-
-
-
-                  ![dia's github stats](https://dias-github-stats.vercel.app/api?username=dianosaur12)]
+<p align="center">
+  <img src="https://dias-github-stats.vercel.app/api?username=dianosaur12" alt="dia's github stats"/>
+</p>
