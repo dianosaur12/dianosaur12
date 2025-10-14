@@ -8,4 +8,4 @@
 
 
 
-  [dia's github stats](https://dias-github-stats.vercel.app/api?username=dianosaur12)]
+![dia's github stats](https://dias-github-stats.vercel.app/api?username=dianosaur12)]
