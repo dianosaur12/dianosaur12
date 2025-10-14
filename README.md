@@ -5,7 +5,7 @@
 
 - dia's github stats (i'm working on it!):
 <p align="center">
-  <img src="https://dias-github-stats.vercel.app/api?username=dianosaur12&show_icons=true&theme=radical" alt="Dia's GitHub stats"/>
-  <br/>
-  <img src="https://dias-github-stats.vercel.app/api/top-langs/?username=dianosaur12&size_weight=0.5&count_weight=0.5&show_icons=true&theme=radical" alt="Dia's top languages"/>
+  <img src="https://dias-github-stats.vercel.app/api?username=dianosaur12&show_icons=true&theme=radical"alt="Dia's GitHub stats"/>
+  <br/> <br/>
+  <img src="https://dias-github-stats.vercel.app/api/top-langs/?username=dianosaur12&size_weight=0.5&count_weight=0.5&show_icons=true&theme=radical"alt="dia's top languages"/>
 </p>
